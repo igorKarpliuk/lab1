@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Lab1",
   "main": "main.js",
-  "dependencies": {},
+  "dependencies": {
+    "prompt": "^1.1.0",
+    "prompt-sync": "^4.2.0"
+  },
   "devDependencies": {
     "eslint": "^7.20.0",
     "eslint-config-standard": "^16.0.2",
